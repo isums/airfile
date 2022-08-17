@@ -1,6 +1,5 @@
-# sussy
-~~totally the name that's gonna stick~~
+# airfile
 
-a very useful tool by @isums
+Airfile is an open-source program that sends files to all devices including Windows, Mac and Linux, as well as mobile devices such as Android and iOS.
 
-> To be advised...
+> A work in progress...
