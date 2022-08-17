@@ -1,5 +1,5 @@
 # sussy
-### ~~totally the name that's gonna stick~~
+~~totally the name that's gonna stick~~
 
 a very useful tool by @isums
 
